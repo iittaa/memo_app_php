@@ -1,0 +1,41 @@
+[02-Jul-2021 16:14:17 Asia/Tokyo] PHP Warning:  require_once(common/header.php): failed to open stream: No such file or directory in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:17 Asia/Tokyo] PHP Fatal error:  require_once(): Failed opening required 'common/header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:18 Asia/Tokyo] PHP Warning:  require_once(common/header.php): failed to open stream: No such file or directory in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:18 Asia/Tokyo] PHP Fatal error:  require_once(): Failed opening required 'common/header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:18 Asia/Tokyo] PHP Warning:  require_once(common/header.php): failed to open stream: No such file or directory in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:18 Asia/Tokyo] PHP Fatal error:  require_once(): Failed opening required 'common/header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:18 Asia/Tokyo] PHP Warning:  require_once(common/header.php): failed to open stream: No such file or directory in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:18 Asia/Tokyo] PHP Fatal error:  require_once(): Failed opening required 'common/header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:19 Asia/Tokyo] PHP Warning:  require_once(common/header.php): failed to open stream: No such file or directory in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:19 Asia/Tokyo] PHP Fatal error:  require_once(): Failed opening required 'common/header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:48 Asia/Tokyo] PHP Warning:  require_once(common/header.php): failed to open stream: No such file or directory in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:48 Asia/Tokyo] PHP Fatal error:  require_once(): Failed opening required 'common/header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:48 Asia/Tokyo] PHP Warning:  require_once(common/header.php): failed to open stream: No such file or directory in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:48 Asia/Tokyo] PHP Fatal error:  require_once(): Failed opening required 'common/header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:48 Asia/Tokyo] PHP Warning:  require_once(common/header.php): failed to open stream: No such file or directory in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:48 Asia/Tokyo] PHP Fatal error:  require_once(): Failed opening required 'common/header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:48 Asia/Tokyo] PHP Warning:  require_once(common/header.php): failed to open stream: No such file or directory in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:48 Asia/Tokyo] PHP Fatal error:  require_once(): Failed opening required 'common/header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:49 Asia/Tokyo] PHP Warning:  require_once(common/header.php): failed to open stream: No such file or directory in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:49 Asia/Tokyo] PHP Fatal error:  require_once(): Failed opening required 'common/header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:49 Asia/Tokyo] PHP Warning:  require_once(common/header.php): failed to open stream: No such file or directory in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:49 Asia/Tokyo] PHP Fatal error:  require_once(): Failed opening required 'common/header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:49 Asia/Tokyo] PHP Warning:  require_once(common/header.php): failed to open stream: No such file or directory in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:49 Asia/Tokyo] PHP Fatal error:  require_once(): Failed opening required 'common/header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:49 Asia/Tokyo] PHP Warning:  require_once(common/header.php): failed to open stream: No such file or directory in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:49 Asia/Tokyo] PHP Fatal error:  require_once(): Failed opening required 'common/header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:50 Asia/Tokyo] PHP Warning:  require_once(common/header.php): failed to open stream: No such file or directory in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:50 Asia/Tokyo] PHP Fatal error:  require_once(): Failed opening required 'common/header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:50 Asia/Tokyo] PHP Warning:  require_once(common/header.php): failed to open stream: No such file or directory in /var/www/html/user/index.php on line 4
+[02-Jul-2021 16:14:50 Asia/Tokyo] PHP Fatal error:  require_once(): Failed opening required 'common/header.php' (include_path='.:/usr/local/lib/php') in /var/www/html/user/index.php on line 4
+[03-Jul-2021 15:55:37 Asia/Tokyo] PHP Notice:  Undefined index: user_name in /var/www/html/user/action/register.php on line 6
+[03-Jul-2021 15:55:37 Asia/Tokyo] PHP Notice:  Undefined index: user_email in /var/www/html/user/action/register.php on line 7
+[03-Jul-2021 15:55:37 Asia/Tokyo] PHP Notice:  Undefined index: user_password in /var/www/html/user/action/register.php on line 8
+[03-Jul-2021 15:56:07 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function getDatabaseConnection() in /var/www/html/user/action/register.php:16
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/user/action/register.php on line 16
+[03-Jul-2021 15:58:08 Asia/Tokyo] PHP Parse error:  syntax error, unexpected 'test' (T_STRING), expecting variable (T_VARIABLE) or '{' or '$' in /var/www/html/test.php on line 5
+[03-Jul-2021 16:11:57 Asia/Tokyo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /var/www/html/user/action/register.php on line 23
+[03-Jul-2021 16:33:20 Asia/Tokyo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /var/www/html/user/action/register.php on line 23
+[03-Jul-2021 16:34:09 Asia/Tokyo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /var/www/html/user/action/register.php on line 23
