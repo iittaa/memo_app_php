@@ -1,10 +1,8 @@
 <?php
 // echo "リダイレクト成功！！";
 
-$test = "   aa aa ";
+$test = "abcdefghi";
 
-// echo $test;
-var_dump($test);
-var_dump(trim($test));
+echo substr($test, 0, -7);
 
 ?>
