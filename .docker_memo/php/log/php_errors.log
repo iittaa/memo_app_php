@@ -39,3 +39,20 @@ Stack trace:
 [03-Jul-2021 16:11:57 Asia/Tokyo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /var/www/html/user/action/register.php on line 23
 [03-Jul-2021 16:33:20 Asia/Tokyo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /var/www/html/user/action/register.php on line 23
 [03-Jul-2021 16:34:09 Asia/Tokyo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /var/www/html/user/action/register.php on line 23
+[03-Jul-2021 16:43:36 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 20
+[03-Jul-2021 17:26:38 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 53
+[03-Jul-2021 17:28:44 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 53
+[03-Jul-2021 17:30:16 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 53
+[03-Jul-2021 17:51:17 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /var/www/html/user/action/register.php on line 38
+[03-Jul-2021 17:51:27 Asia/Tokyo] PHP Notice:  Undefined variable: errors in /var/www/html/user/action/register.php on line 40
+[03-Jul-2021 17:51:27 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 53
+[03-Jul-2021 17:52:06 Asia/Tokyo] PHP Notice:  Undefined variable: errors in /var/www/html/user/action/register.php on line 40
+[03-Jul-2021 17:52:06 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 53
+[03-Jul-2021 17:58:23 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /var/www/html/user/action/register.php:7
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/user/action/register.php on line 7
+[03-Jul-2021 18:00:51 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 54
+[03-Jul-2021 18:08:07 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 54
+[04-Jul-2021 15:13:00 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 54
+[04-Jul-2021 16:07:41 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 54
