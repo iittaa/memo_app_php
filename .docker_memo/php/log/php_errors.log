@@ -56,3 +56,50 @@ Stack trace:
 [03-Jul-2021 18:08:07 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 54
 [04-Jul-2021 15:13:00 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 54
 [04-Jul-2021 16:07:41 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/user/action/register.php on line 54
+[04-Jul-2021 18:17:15 Asia/Tokyo] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /var/www/html/memo/index.php on line 36
+[04-Jul-2021 18:17:15 Asia/Tokyo] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /var/www/html/memo/index.php on line 36
+[04-Jul-2021 18:17:20 Asia/Tokyo] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /var/www/html/memo/index.php on line 36
+[05-Jul-2021 14:51:03 Asia/Tokyo] PHP Notice:  Undefined variable: edit_id in /var/www/html/memo/index.php on line 70
+[05-Jul-2021 14:51:03 Asia/Tokyo] PHP Notice:  Undefined variable: edit_id in /var/www/html/memo/index.php on line 70
+[05-Jul-2021 14:51:03 Asia/Tokyo] PHP Notice:  Undefined variable: edit_id in /var/www/html/memo/index.php on line 70
+[05-Jul-2021 14:51:03 Asia/Tokyo] PHP Notice:  Undefined variable: edit_id in /var/www/html/memo/index.php on line 70
+[05-Jul-2021 16:16:43 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 22
+[05-Jul-2021 16:16:43 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 23
+[05-Jul-2021 16:16:43 Asia/Tokyo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /var/www/html/memo/action/update.php on line 26
+[05-Jul-2021 16:17:11 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 22
+[05-Jul-2021 16:17:11 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 23
+[05-Jul-2021 16:17:11 Asia/Tokyo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /var/www/html/memo/action/update.php on line 26
+[05-Jul-2021 16:19:36 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 22
+[05-Jul-2021 16:19:36 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 23
+[05-Jul-2021 16:19:41 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 22
+[05-Jul-2021 16:19:41 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 23
+[05-Jul-2021 16:19:42 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 22
+[05-Jul-2021 16:19:42 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 23
+[05-Jul-2021 16:54:28 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 22
+[05-Jul-2021 16:54:28 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 23
+[05-Jul-2021 16:54:29 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 22
+[05-Jul-2021 16:54:29 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 23
+[05-Jul-2021 16:54:31 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 22
+[05-Jul-2021 16:54:31 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 23
+[05-Jul-2021 16:54:38 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 22
+[05-Jul-2021 16:54:38 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 23
+[05-Jul-2021 16:56:41 Asia/Tokyo] PHP Notice:  Undefined variable: edit_id in /var/www/html/memo/index.php on line 70
+[05-Jul-2021 16:56:41 Asia/Tokyo] PHP Notice:  Undefined variable: edit_id in /var/www/html/memo/index.php on line 70
+[05-Jul-2021 16:56:43 Asia/Tokyo] PHP Notice:  Undefined variable: edit_id in /var/www/html/memo/index.php on line 70
+[05-Jul-2021 16:56:43 Asia/Tokyo] PHP Notice:  Undefined variable: edit_id in /var/www/html/memo/index.php on line 70
+[05-Jul-2021 16:57:59 Asia/Tokyo] PHP Notice:  Undefined variable: edit_id in /var/www/html/memo/index.php on line 70
+[05-Jul-2021 16:57:59 Asia/Tokyo] PHP Notice:  Undefined variable: edit_id in /var/www/html/memo/index.php on line 70
+[05-Jul-2021 16:58:15 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 22
+[05-Jul-2021 16:58:15 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 23
+[05-Jul-2021 16:58:26 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 22
+[05-Jul-2021 16:58:26 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 23
+[05-Jul-2021 16:58:34 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 22
+[05-Jul-2021 16:58:34 Asia/Tokyo] PHP Notice:  Only variables should be passed by reference in /var/www/html/memo/action/update.php on line 23
+[05-Jul-2021 16:58:36 Asia/Tokyo] PHP Notice:  Undefined variable: edit_id in /var/www/html/memo/index.php on line 70
+[05-Jul-2021 16:58:36 Asia/Tokyo] PHP Notice:  Undefined variable: edit_id in /var/www/html/memo/index.php on line 70
+[05-Jul-2021 16:58:36 Asia/Tokyo] PHP Notice:  Undefined variable: edit_id in /var/www/html/memo/index.php on line 70
+[05-Jul-2021 16:58:36 Asia/Tokyo] PHP Notice:  Undefined variable: edit_id in /var/www/html/memo/index.php on line 70
+[05-Jul-2021 16:58:37 Asia/Tokyo] PHP Notice:  Undefined variable: edit_id in /var/www/html/memo/index.php on line 70
+[05-Jul-2021 16:58:37 Asia/Tokyo] PHP Notice:  Undefined variable: edit_id in /var/www/html/memo/index.php on line 70
+[05-Jul-2021 16:58:37 Asia/Tokyo] PHP Notice:  Undefined variable: edit_id in /var/www/html/memo/index.php on line 70
+[05-Jul-2021 16:58:37 Asia/Tokyo] PHP Notice:  Undefined variable: edit_id in /var/www/html/memo/index.php on line 70
